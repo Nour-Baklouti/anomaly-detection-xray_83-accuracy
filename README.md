@@ -6,7 +6,7 @@ Ce projet utilise un modèle séquentiel CNN conçu pour la classification d'ima
 Caractéristiques du Modèle
 Architecture : 4 couches convolutionnelles.
 Optimiseur : Adam.
-Données : Le dataset est accessible via Kaggle : /kaggle/input/combined-unknown-pneumonia-and-tuberculosis.
+Données : Le dataset est accessible via Kaggle :(https://www.kaggle.com/datasets/rifatulmajumder23/combined-unknown-pneumonia-and-tuberculosis).
 Prétraitement des Données
 L'outil ImageDataGenerator a été utilisé pour :
 
